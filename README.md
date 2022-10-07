@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Roberto Fernández</h1>
 <h3 align="center">A passionate developer from Spain</h3>
 
-<h3 align="left">Connect with me:</h3>
+## Connect with me:
 <p align="left">
     <a href="https://linkedin.com/in/roberto-fernández-romero-663847158" target="_blank">
         <img align="center"
@@ -10,7 +10,7 @@
     </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+## Languages and Tools:
 <p align="left">
     <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
@@ -47,7 +47,5 @@
     </a>
 </p>
 
-<h3 align="left">My GitHub stats:</h3>
-<p align="left">
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=robefernandez22)](https://github.com/anuraghazra/github-readme-stats)
-</p>
+## My GitHub stats:
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=robefernandez22)](https://github.com/anuraghazra/github-readme-stats)
