@@ -1,22 +1,26 @@
 <h1 align="center">Hi 👋, I'm Roberto Fernández</h1>
 <h3 align="center">A passionate developer from Spain</h3>
 
+- 🔭 I’m currently working on [Online Store](https://github.com/robefernandez22/tienda-js)
+
+- 🌱 I’m currently learning **HTML, CSS, JavaScript, React.JS and Node.JS**
+
+- 💬 Ask me about **HTML, CSS, JavaScript and Java**
+
+- 📫 How to reach me **robertofernandezromero61@gmail.com**
+
 ## Connect with me:
 <p align="left">
-    <a href="https://linkedin.com/in/roberto-fernández-romero-663847158" target="_blank">
-        <img align="center"
+    <a href="https://linkedin.com/in/roberto-fernández-romero-663847158" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-            alt="roberto-fernández-romero-663847158" height="30" width="40" />
-    </a>
+            alt="roberto-fernández-romero-663847158" height="30" width="40" /></a>
 </p>
 
 ## Languages and Tools:
-<p align="left">
-    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
-            alt="css3" width="40" height="40" />
-    </a>
-    <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
+            alt="css3" width="40" height="40" /> </a> <a href="https://www.docker.com/" target="_blank"
+        rel="noreferrer"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"
             alt="docker" width="40" height="40" /> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" /> </a>
