@@ -1,18 +1,3 @@
-<!--### Hi, I'm Roberto 👋
-
-## about me in code
-```javascript
-const robefernandez22 = {
-  pronouns: "he" | "him",
-  code: [Javascript, HTML, CSS, Java],
-  tools: [React, Node, Spring, Jenkins, Docker]
-}
-```
-
-## my GitHub stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=robefernandez22)](https://github.com/anuraghazra/github-readme-stats)
--->
-
 <h1 align="center">Hi 👋, I'm Roberto Fernández</h1>
 <h3 align="center">A passionate developer from Spain</h3>
 
@@ -60,4 +45,9 @@ const robefernandez22 = {
             alt="react" width="40" height="40" /> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40" />
     </a>
+</p>
+
+<h3 align="left">My GitHub stats:</h3>
+<p align="left">
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=robefernandez22)](https://github.com/anuraghazra/github-readme-stats)
 </p>
