@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Roberto Fernández</h1>
 <h3 align="center">A passionate developer from Spain</h3>
 
-- 🔭 I’m currently working on [Online Store](https://github.com/robefernandez22/tienda-js)
-
 - 🌱 I’m currently learning **HTML, CSS, JavaScript, React.JS and Node.JS**
 
 - 💬 Ask me about **HTML, CSS, JavaScript and Java**
